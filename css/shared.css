@@ -23,6 +23,10 @@
     color: var(--highlight-color);
 }
 
+.mt-0p5 {
+    margin-top: 0.5rem;
+}
+
 .mt-1 {
     margin-top: 1rem;
 }
